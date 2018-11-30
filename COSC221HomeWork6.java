@@ -5,7 +5,7 @@
  * @author Kade Lawson
  *
  */
-public class COCS221HomeWork6 {
+public class COSC221HomeWork6 {
 	private static double total ;
 	private static int numOfElements ;
 	private static double average;
